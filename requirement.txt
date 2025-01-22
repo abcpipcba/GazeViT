@@ -1,0 +1,2 @@
+Python >= 3.6, numpy, matplotlib, pillow, timm
+PyTorch >= 1.8.1, torchvision >= 0.11.1

@@ -4,7 +4,7 @@ This repository provides the code for "[GazeViT: a gaze-guided hybrid-attention 
 <img width=1549 height=1974 src="data/Overview.png"/>
 
 ## Dataset
-Please prepare [CVUSA](http://mvrl.cs.uky.edu/datasets/cvusa/) or [CVACT](https://github.com/Liumouliu/OriCNN). You may need to modify specific path in dataloader.
+Please prepare [CVUSA](https://github.com/viibridges/crossnet) or [CVACT](https://github.com/Liumouliu/OriCNN). You may need to modify specific path in dataloader.
 
 ## Requirement
 	- Python >= 3.6, numpy, matplotlib, pillow, ptflops, timm
@@ -21,7 +21,7 @@ We follow timm, ViT and [Deit](https://github.com/facebookresearch/deit) for pyt
 Let me know if there is anything wrong with the link.
     
 ## Reference
-    - http://mvrl.cs.uky.edu/datasets/cvusa/
+    - https://github.com/viibridges/crossnet
     - https://github.com/Jeff-Zilence/TransGeo2022
     - https://github.com/Liumouliu/OriCNN
     - https://github.com/facebookresearch/deit

@@ -1,8 +1,6 @@
 # GazeViT
 This repository provides the code for "[GazeViT: a gaze-guided hybrid-attention Vision Transformer for cross-view matching of street-to-aerial images]
 
-<img width=1549 height=1974 src="data/Overview.png"/>
-
 ## Dataset
 Please prepare [CVUSA](https://github.com/viibridges/crossnet) or [CVACT](https://github.com/Liumouliu/OriCNN). You may need to modify specific path in dataloader.
 

@@ -2,7 +2,7 @@
 This repository provides the code for "[GazeViT: a gaze-guided hybrid-attention Vision Transformer for cross-view matching of street-to-aerial images]
 
 ## Dataset
-Please prepare [CVUSA](https://github.com/viibridges/crossnet) or [CVACT](https://github.com/Liumouliu/OriCNN). You may need to modify specific path in dataloader.
+Please prepare [CVUSA](https://mvrl.cse.wustl.edu/datasets/cvusa/)) or [CVACT](https://github.com/Liumouliu/OriCNN). You may need to modify specific path in dataloader.
 
 ## Requirement
 	- Python >= 3.6, numpy, matplotlib, pillow, ptflops, timm
